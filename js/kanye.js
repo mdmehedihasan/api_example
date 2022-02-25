@@ -10,3 +10,7 @@ function showQuote(data) {
     quoteContainer.innerText = data.quote;
 }
 
+
+///test
+const array = { hobbies: ["dancing", "singing", "acting"] };
+console.log(JSON.stringify(array));
